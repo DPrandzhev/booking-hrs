@@ -1,0 +1,13 @@
+D:\Rep_Softuni\Back-End-TestAutomation\House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.deps.json
+D:\Rep_Softuni\Back-End-TestAutomation\House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.runtimeconfig.json
+D:\Rep_Softuni\Back-End-TestAutomation\House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.dll
+D:\Rep_Softuni\Back-End-TestAutomation\House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.pdb
+D:\Rep_Softuni\Back-End-TestAutomation\House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.AssemblyReference.cache
+D:\Rep_Softuni\Back-End-TestAutomation\House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rep_Softuni\Back-End-TestAutomation\House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfoInputs.cache
+D:\Rep_Softuni\Back-End-TestAutomation\House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfo.cs
+D:\Rep_Softuni\Back-End-TestAutomation\House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.CoreCompileInputs.cache
+D:\Rep_Softuni\Back-End-TestAutomation\House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.sourcelink.json
+D:\Rep_Softuni\Back-End-TestAutomation\House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.dll
+D:\Rep_Softuni\Back-End-TestAutomation\House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.pdb
+D:\Rep_Softuni\Back-End-TestAutomation\House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.genruntimeconfig.cache
